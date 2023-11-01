@@ -1,0 +1,5 @@
+boooks +a:Book
+	R_for_Data_Science author:Hadley_Wickham,Mine_Cetinkaya-Rundel,Garett_Grolemund
+	Hands_on_Programming_with_R author:Garett_Grolemund
+	Advanced_R author:Hadley_Wickham
+	R_Cookbook author:Paul_Teetor
